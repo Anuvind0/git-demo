@@ -2,9 +2,11 @@
 
 git-demo
 
-&nbsp;
+ 
 
 
 
 Modifying the file
+
+modifying again for non fast forward merge
 
