@@ -7,6 +7,7 @@ wow
 creating feature branch
 third feature push
 this is only visible in the feature branch
-
 im editing this for non fast forward merge
 this is available on master
+this is on the feature branch yo
+
