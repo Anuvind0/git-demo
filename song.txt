@@ -7,3 +7,5 @@ wow
 creating feature branch
 third feature push
 this is only visible in the feature branch
+
+im editing this for non fast forward merge
