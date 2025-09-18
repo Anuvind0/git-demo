@@ -4,3 +4,4 @@ This was removed later
 This is a demo of git gui
 additional content 
 wow
+this is only visible in the feature branch
