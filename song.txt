@@ -5,4 +5,5 @@ This is a demo of git gui
 additional content 
 wow
 creating feature branch
+third feature push
 this is only visible in the feature branch
